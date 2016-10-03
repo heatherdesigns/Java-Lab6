@@ -1,8 +1,8 @@
 # Java-Lab6
 <p>Home assignment: Objects &amp; Classes</p>
 <p>For this assignment, you will be creating your own program using your own class as well as a driver program with the main method. Your class will contain common properties &amp; behaviors for the array of objects that you create in the driver program. Do not create classes used in the textbook or used during class demos. It goes without saying that you should not use examples found on the internet. The classes in this assignment should be of your own invention.</p>
-<p>Create the following in your program:<br>
-A class with the following:</p>
+<p>Create the following in your program:</p>
+<p>A class with the following:</p>
   <ul>
     <li>3-5 data fields – use appropriate access modifiers and data types</li>
     <li>2-3 constructors – 1 no-arg constructor and at least 1 overloaded constructor</li>
